@@ -1,0 +1,1 @@
+ C:\\Users\\psree\\Desktop\\New\ folder\\trustchain\\.dart_tool\\flutter_build\\42852e5a710bc9460783875888a1b18f\\native_assets.yaml: 
